@@ -1,0 +1,26 @@
+.button_contact{
+    border: 1px solid  #C04BE2;
+    background: transparent; 
+    color: white;
+    padding: 4px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    border-radius: 16px;
+  }
+.button_contact:hover{
+    background: linear-gradient(180deg, #6B54F7 27.52%, #C04BE2 171.15%) !important;
+}
+.home{
+   background-color: #5479F7;
+}
+
+.image_overlap{
+    position: absolute;
+    right: 25%;
+    top: 40%;
+}
+.carousel-item {
+    width: 100% !important; 
+}
